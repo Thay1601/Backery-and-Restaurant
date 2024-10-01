@@ -1,0 +1,43 @@
+/*
+seletor {
+    propriedade: valor;
+}
+*/
+* {
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #BE987E;
+  }
+  
+  header {
+    background-color: #974b2d;
+    color: #f8aeae;
+    height: 100px;
+    padding-left: 620px;
+    padding-top: 10px;
+  }
+  
+  section {
+    border: solid #bd661e 10px;
+    margin: 25px 15px;
+    padding-left: 15px;
+  }
+  section figure {
+    margin-top: 15px;
+  }
+  section figure img {
+    width: 180px;
+  }
+  section figure figcaption {
+    padding-left: 50px;
+  }
+  section button {
+    margin: 15px 0px;
+    padding: 3px;
+    background-color: #492E23;
+    color: white;
+  }/*# sourceMappingURL=style.css.map */
